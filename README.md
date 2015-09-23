@@ -1,4 +1,4 @@
 # vetcorDirUp_test
-simple preview to check settings
+simple preview to check values
 
 https://www.youtube.com/watch?v=H1bWKxWEnQc
